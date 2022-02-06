@@ -1,0 +1,23 @@
+{
+  "name": "jay-west-Webflow-cloud-function-cron",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayezinzu/jay-west-Webflow-cloud-function-cron.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayezinzu/jay-west-Webflow-cloud-function-cron/issues"
+  },
+  "homepage": "https://github.com/ayezinzu/jay-west-Webflow-cloud-function-cron#readme",
+  "dependencies": {
+    "@netlify/functions": "^0.11.0"
+  }
+}
